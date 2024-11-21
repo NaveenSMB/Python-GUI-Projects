@@ -1,0 +1,12 @@
+	 Welcome to Billing Software
+
+ Bill number: 		2979
+ Customer Name: 		aaa
+ Phone number: 		aaa
+=====================================
+ Product		 QTY		Price
+=====================================
+=====================================
+Total Payable Amount:			1000
+=====================================
+
